@@ -403,7 +403,6 @@ public class RouletteGameApp extends Application {
         double totalWin = 0;
         if (number == 0) {
             totalWin += 1 * 35; // Vincita su 0 (35:1)
-            totalWin -= 1; // Costo puntata su 0
             totalWin -= 5; // Costo puntata su Q2
             totalWin -= 5; // Costo puntata su Q3
         } else if (contains(FIRST_12, number)) {
