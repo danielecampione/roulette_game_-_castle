@@ -47,11 +47,8 @@ Feel free to explore and adapt these strategies for your own use. Good luck!
 
 ---
 
-Castle Method 01 screenshot
-![Png](https://i.ibb.co/q3ZpSYDj/Immagine-2025-04-10-222432.png)
-
-Castle Method 02 screenshot
-![Png](https://i.ibb.co/qLkmshhP/Immagine-2025-04-16-234336.png)
+Screenshot
+![Png](https://i.ibb.co/Qx38y4m/Immagine-2025-04-16-234336.png)
 
 ## Customizations
 
